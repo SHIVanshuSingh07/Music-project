@@ -30,8 +30,11 @@ body {
 	0% {
 	  transform:translateX(-25%);
 	}
+	50% {
+		transform:translateX(65%);
+	  }
 	100% {
-	  transform:translateX(25%);
+	  transform:translateX(45%);
 	}
   }
 
